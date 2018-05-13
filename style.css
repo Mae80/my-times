@@ -48,3 +48,35 @@ nav a {
   text-align: right;
   margin-right: 20px;
 }
+
+/* Main Section */
+
+.main {
+  width: 1200px;
+  background-color: lightgrey;
+  border: 1px solid black;
+  height: 700px;
+  display: flex;
+  align-items: flex-end;
+  margin: 0 auto;
+}
+
+.column {
+  /*width: 200px;*/
+  height: 650px;
+  /*background-color: dodgerblue;*/
+  border: 1px solid black;
+  margin-right: 25px;
+}
+
+.left {
+  width: 630px;
+}
+
+.middle {
+  width: 300px;
+}
+.right {
+  width: 240px;
+
+}
