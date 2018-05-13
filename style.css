@@ -55,7 +55,7 @@ nav a {
   width: 1200px;
   background-color: lightgrey;
   border: 1px solid black;
-  height: 700px;
+  height: 1000px;
   display: flex;
   align-items: flex-end;
   margin: 0 auto;
@@ -63,20 +63,24 @@ nav a {
 
 .column {
   /*width: 200px;*/
-  height: 650px;
+  height: 950px;
   /*background-color: dodgerblue;*/
   border: 1px solid black;
   margin-right: 25px;
 }
 
-.left {
+.large {
   width: 630px;
 }
 
-.middle {
+.medium {
   width: 300px;
 }
-.right {
+.small {
   width: 240px;
 
+}
+
+.border {
+  border: 1px solid black;
 }
