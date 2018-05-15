@@ -190,6 +190,8 @@ h2 {
   font-size: 18px;
 }
 
+/* Footer section */
+
 .flex-container {
   background-color: MediumAquamarine;
   /*width: 600px;*/
@@ -201,7 +203,7 @@ h2 {
   /*justify-content: space-around;*/
 }
 
-.container {
+.footer-container {
   width: 600px;
   height: 150px;
   /*background-color: dodgerblue;*/
